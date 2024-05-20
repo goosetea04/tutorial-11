@@ -32,3 +32,5 @@ While the Recreate strategy offered faster updates with lower resource consumpti
 Using manifest files enhances the efficiency, scalability, and maintainability of project deployments. They streamline the process by allowing a single `kubectl apply -f` command to deploy and expose services with all necessary options, saving time compared to manually writing commands. Manifest files also maintain consistency in settings, reducing the risk of incorrect configurations that can be hard to identify and fix.
 
 Moreover, manifest files promote scalability by serving as clear documentation of deployment settings and being easily adjustable. This clarity and ease of configuration simplify the deployment process and reduce the likelihood of errors, making it a more efficient and reliable method compared to manually inputting commands.
+
+Group Project Deployment: https://frightened-manya-zeus-adpro-d40b7de3.koyeb.app/listings/
